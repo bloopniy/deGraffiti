@@ -1,0 +1,10 @@
+name: deGraffiti
+version: '${version}'
+
+main: ru.bloop.deGraffiti.DeGraffiti
+api-version: '1.21.8'
+load: POSTWORLD
+
+commands:
+  zalupa:
+    description: give paint fuck
