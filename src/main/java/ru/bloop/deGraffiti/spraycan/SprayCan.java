@@ -10,6 +10,7 @@ import org.bukkit.persistence.PersistentDataType;
 import ru.bloop.deGraffiti.DeGraffiti;
 
 public class SprayCan {
+    public static final int MAX_PAINT_LEVEL = 100;
     private static final NamespacedKey PAINT_LEFT_KEY =
             new NamespacedKey(DeGraffiti.NAMESPACE, "paint_left");
 
